@@ -25,9 +25,6 @@ The system leverages **prompt engineering and LLMs** to ensure accurate KPI calc
 
 ---
 
-## 🖥️ Dashboard UI
-
-![Dashboard UI](Dashboard.png)
 
 📌 **Description:**
 - Complete interface combining AI assistant, KPI cards, charts, and upload system
@@ -76,6 +73,10 @@ The system leverages **prompt engineering and LLMs** to ensure accurate KPI calc
 ## 📊 Chart Output – Attrition Analysis
 
 ![Chart Output](Chart_Output.png)
+
+## 🖥️ Dashboard UI
+
+![Dashboard UI](Dashboard.png)
 
 📌 **Description:**
 - Dynamic bar chart showing attrition rate by department

@@ -67,7 +67,7 @@ Features:
 ## 📸 Screenshots
 
 ### Dashboard UI
-![Dashboard](screenshots/dashboard_ui.png)
+![Dashboard](Dashboard.jpeg)
 
 ### CSV Upload Section
 ![Upload](screenshots/upload_section.png)

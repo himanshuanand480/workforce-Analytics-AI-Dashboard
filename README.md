@@ -70,16 +70,16 @@ Features:
 ![Dashboard](Dashboard.png)
 
 ### CSV Upload Section
-![Upload](screenshots/upload_section.png)
+![Upload](CSV_Upload.png)
 
 ### AI Assistant Query
-![Chat](screenshots/ai_chat.png)
+![Chat](AI_Assistant.png)
 
 ### KPI Cards
-![KPI](screenshots/kpi_cards.png)
+![KPI](KPI_Cards.png)
 
 ### Chart Output
-![Chart](screenshots/chart_output.png)
+![Chart](Chart_Output.png)
 
 ---
 

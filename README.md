@@ -34,7 +34,8 @@ The system leverages **prompt engineering and LLMs** to ensure accurate KPI calc
 - Designed for interactive workforce analytics
 
 ---
-
+## Prompt Engineering:
+![Prompt](Prompt.jpeg)
 ## 📂 Data Upload – CSV Input Interface
 
 ![CSV Upload](CSV_Upload.jpeg)
@@ -129,7 +130,7 @@ Features:
 
 ---
 
-## 🔗 LinkedIn Post:
+## 🔗 LinkedIn Post: https://www.linkedin.com/posts/himanshu-anand-684656253_dataanalytics-promptengineering-aiprojects-ugcPost-7448379335301914625-hzI6?utm_source=share&utm_medium=member_android&rcm=ACoAAD6Q-UQBpuWrd6zWv5z_jtsY6pXSa8ZzC5Q
 
 ---
 

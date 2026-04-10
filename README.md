@@ -76,7 +76,7 @@ Features:
 ![Chat](AI_Assistant.jpeg)
 
 ### KPI Cards
-![KPI](KPI_Cards.png)
+![KPI](KPI_chart.png)
 
 ### Chart Output
 ![Chart](Chart_Output.png)
